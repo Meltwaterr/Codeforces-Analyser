@@ -66,7 +66,7 @@ Follow these steps to run the application on your local machine.
     ```bash
     streamlit run main_app.py
     ```
-    The application will open in your web browser.
+    The application will open in your web browser. Otherwise you may also use the launch_streamlit.vbs, to use the one click launch.
 
 ---
 
